@@ -107,13 +107,10 @@ navbar{
 /* Footer */
 footer {
   background-color: #fbf9f9;
+  width: auto;
 }
 
-.fixed-bottom{
-position: fixed;
-bottom: 0;
-width: 100%;
-}
+
 
 .custom-form {
   background-color: #eaf0f5;
